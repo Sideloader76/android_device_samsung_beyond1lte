@@ -33,7 +33,7 @@ TARGET_BOOTANIMATION_HALF_RES := true
 TARGET_SCREEN_HEIGHT := 3040
 TARGET_SCREEN_WIDTH := 1440
 
-## Inherit some common Lineage stuff
+## Inherit some common Lineag stuff
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 ## Enable updating of APEXes
